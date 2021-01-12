@@ -1,0 +1,43 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+h3{
+    padding:1rem 1rem 1rem 2rem;
+}
+.container {
+    display: flex;
+ 
+}
+
+.columns {
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: flex-start;
+   
+}
+
+.column-left {
+   
+    float: left;
+    justify-content: flex-start;
+    
+}
+
+.column-left img {
+    padding:1rem 0rem 1rem 1rem;
+    width:70%;
+    height:80%;
+    object-fit: contain;
+}
+
+.column-right {
+    
+    
+    float: right;
+    align-items: flex-end;
+}
+#fh3{
+    align-content: center;
+    
+}
