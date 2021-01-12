@@ -39,7 +39,9 @@ p {
     width: 85%;
     height: 100%;
     object-fit: contain;
+    
 }
+
 
 .column-right {
     margin-left: 0;
@@ -69,3 +71,17 @@ p {
     color:white;
     font-family: 'JetBrains Mono', monospace;
 }
+
+/*animation*/
+
+@keyframes spinning {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+  }
+  .spin {
+    animation-name: spinning;
+    animation-duration: 3s;
+    animation-iteration-count: 3;
+    /* linear | ease | ease-in | ease-out | ease-in-out */
+    animation-timing-function: linear;
+  }
