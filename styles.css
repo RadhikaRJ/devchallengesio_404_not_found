@@ -9,7 +9,7 @@ p {
     padding: 1rem 1rem 1rem 2rem;
     align-content: center;
     font-family: 'JetBrains Mono', monospace;
-    text-transform: uppercase;
+   
 }
 
 .container {
@@ -49,6 +49,7 @@ p {
 }
 
 .column-right p{
+    
     width:35%;
     margin-left: 0;
     padding:0;
