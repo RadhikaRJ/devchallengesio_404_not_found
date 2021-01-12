@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rj-devchallengeio-404pnf.netlify.app/}">
+    <a href="https://rj-devchallengeio-404pnf.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/RadhikaRJ/devchallengesio_404_not_found}">
+    <a href="https://{https://github.com/RadhikaRJ/devchallengesio_404_not_found">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](overview_screenshot.png)
+![screenshot](https://rj-devchallengeio-404pnf.netlify.app/Scarecrow.png)
 
 I've created this project to learn & implement responsive website development.
 I have learnt:
@@ -52,7 +52,7 @@ I have learnt:
 
 - [HTML]
 - [CSS]
-- 
+
 
 ## Features
 
@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{})
-- GitHub [@your-username](https://{github.com/RadhikaRJ})
-- Twitter [@your-twitter](https://{twitter.com/Radhika8102})
+- GitHub [RadhikaRJ](https://{github.com/RadhikaRJ})
+- Twitter [Radhika8102](https://{twitter.com/Radhika8102})
