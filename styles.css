@@ -15,7 +15,7 @@ p {
 .container {
     display: flex;
     width:100%;
-    max-width:620px;
+    max-width:520px;
     min-width:450px;
     margin:0 auto;
     flex-direction:row;
@@ -23,29 +23,22 @@ p {
 
 }
 img{
-    width:100%;
+    width:50%;
 }
-.columns {
-    flex-wrap: wrap;
-    flex-direction: row;
+.flexbox{
     
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 
 
 .column-right {
-   
-    font-family: 'JetBrains Mono', monospace;
-    
-    
+    font-family: 'JetBrains Mono', monospace;    
 }
 
-.column-right p{
-    
-    width:35%;
-    margin-left: 0;
-    padding:0;
-}
+
 
 #fh3 {
     align-content: center;
