@@ -18,6 +18,8 @@ p {
     max-width:620px;
     min-width:450px;
     margin:0 auto;
+    flex-direction:row;
+    flex-wrap: wrap;
 
 }
 img{
