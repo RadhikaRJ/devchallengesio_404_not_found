@@ -75,9 +75,15 @@ img{
           flex-direction:column;
           margin:0;
       }
+      .scarecrow{
+          padding:1em;
+      }
       .column-right{
           margin:0;
           padding:0.25em;
+      }
+      .info{
+          padding:1em;
       }
       footer{
           margin-top:1em;
