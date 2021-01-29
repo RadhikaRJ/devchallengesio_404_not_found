@@ -17,7 +17,7 @@ p {
     display: flex;
     width:100%;
     max-width:920px;
-    min-width:350px;
+   
     margin:0 auto;
 }
 
@@ -69,4 +69,8 @@ img{
     animation-timing-function: linear;
   }
 
-  
+  @media (max-width:480px){
+      .container{
+          flex-direction:column;
+      }
+  }
