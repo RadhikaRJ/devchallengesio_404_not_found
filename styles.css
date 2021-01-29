@@ -73,5 +73,14 @@ img{
       .container{
           display:flex;
           flex-direction:column;
+          margin:0;
       }
+      .column-right{
+          margin:0;
+          padding:0.25em;
+      }
+      footer{
+          margin-top:1em;
+      }
+
   }
