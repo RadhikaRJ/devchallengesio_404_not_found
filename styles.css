@@ -48,11 +48,12 @@ img{
 }
 
 #btn{
-    padding:1rem;
+    padding:1em;
     text-transform: uppercase;
     background-color: black;
     color:white;
     font-family: 'JetBrains Mono', monospace;
+    margin:0;
 }
 
 /*animation*/
@@ -87,6 +88,7 @@ img{
       }
       footer{
           margin-top:1em;
+          font-size: 1em;
       }
 
   }
