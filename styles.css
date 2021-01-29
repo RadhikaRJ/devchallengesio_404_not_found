@@ -6,36 +6,36 @@ body {
 }
 
 p {
-    padding: 1rem 1rem 1rem 2rem;
+    padding: 1rem 1rem 1rem 0;
     align-content: center;
     font-family: 'JetBrains Mono', monospace;
    
 }
 
 .container {
+    border:2px solid red;
     display: flex;
     width:100%;
-    max-width:520px;
-    min-width:450px;
+    max-width:920px;
+    min-width:350px;
     margin:0 auto;
-    flex-direction:row;
-    flex-wrap: wrap;
-
 }
+
 img{
     width:100%;
 }
-.flexbox{
-    
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+
+
+.scarecrow{
+    border: 2px solid blue;
+    padding:2.5em;
+    margin:0;
 }
 
-
-
 .column-right {
+    border: 2px solid magenta;
     font-family: 'JetBrains Mono', monospace;    
+    padding:2em;
 }
 
 
@@ -68,3 +68,5 @@ img{
     /* linear | ease | ease-in | ease-out | ease-in-out */
     animation-timing-function: linear;
   }
+
+  
