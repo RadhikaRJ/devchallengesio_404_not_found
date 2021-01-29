@@ -16,7 +16,7 @@ p {
     border:2px solid red;
     display: flex;
     width:100%;
-    max-width:920px;
+    max-width: 720px;
    
     margin:0 auto;
 }
@@ -71,6 +71,7 @@ img{
 
   @media (max-width:480px){
       .container{
+          display:flex;
           flex-direction:column;
       }
   }
