@@ -9,7 +9,7 @@ body {
 
 
 .container {
-    border:2px solid red;
+    /* border:2px solid red; */
     display: flex;
     width:100%;
     max-width: 720px;
@@ -23,13 +23,13 @@ img{
 
 
 .scarecrow{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     padding:2.5em;
     margin:0;
 }
 
 .column-right {
-    border: 2px solid magenta;
+    /* border: 2px solid magenta; */
     font-family: 'JetBrains Mono', monospace;    
     padding:2em;
 }
@@ -82,7 +82,7 @@ footer{
       footer, #fh3{
           margin-top:1em;
           font-size: 1em;
-          
+          text-align: justify;
       }
 
   }
